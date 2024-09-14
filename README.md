@@ -2,6 +2,10 @@
 
 Este repositorio recopila recursos clave para la búsqueda de empleo, creación de currículums y desarrollo de portfolios. Ideal para quienes buscan oportunidades laborales en **Uruguay** y desean presentarse de manera profesional.
 
+- [📩 Sitios para Postularse](#📩-Sitios-para-Postularse)
+- [Sección 1: Resumen](#sección-1-resumen)
+- [Sección 2: Detalles](#sección-2-detalles)
+  - [Sub-sección 2.1: Información Adicional](#sub-sección-21-información-adicional)
 ---
 
 ## 📩 Sitios para Postularse
