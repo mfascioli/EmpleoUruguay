@@ -6,16 +6,95 @@ Este repositorio recopila recursos clave para la búsqueda de empleo, creación 
 
 ## 📩 Sitios para Postularse
 
-Aquí tienes una lista de plataformas confiables donde puedes encontrar oportunidades de empleo en Uruguay:
+### **Privados:**
 
-- [BuscoJobs](https://www.buscojobs.com.uy/)  
-- [CompuTrabajo](https://uy.computrabajo.com/)  
-- [ViaTrabajo](https://viatrabajo.mtss.gub.uy/)  
-- [Gallito Luis](https://trabajo.gallito.com.uy/)  
-- [ManPower](https://www.manpower.com.uy/)  
-- [SmartTalent](https://www.smarttalent.uy/)  
+[LinkedIn](https://www.linkedin.com/jobs/)  
+   Red profesional global con una amplia gama de oportunidades laborales y herramientas de networking.
+
+[Indeed](https://www.indeed.com.uy/)  
+   Portal de empleo con una gran base de datos de ofertas laborales y recursos para la búsqueda de empleo.
+
+[BuscoJobs](https://www.buscojobs.com.uy/)  
+   Plataforma de empleo con diversas ofertas en Uruguay y herramientas de búsqueda filtradas por categoría.
+
+[CompuTrabajo](https://uy.computrabajo.com/)  
+   Sitio de empleo con numerosas ofertas laborales y la opción de postularse directamente desde la página.
+
+[Gallito Luis](https://trabajo.gallito.com.uy/)  
+   Portal uruguayo de empleo que incluye ofertas en diferentes sectores y localidades.
+
+[Bumeran](https://www.bumeran.com.uy/)  
+   Plataforma de búsqueda de empleo con ofertas tanto nacionales como internacionales.
+
+[Adecco Uruguay](https://www.adecco.com.uy/)  
+   Página de la agencia de empleo Adecco, especializada en encontrar candidatos para diversas industrias.
+
+[SmartTalent](https://www.smarttalent.uy/)  
+   Sitio de empleo que conecta talentos con empresas en Uruguay mediante ofertas y búsqueda personalizada.
+
+[ManPower](https://www.manpower.com.uy/)  
+   Agencia de empleo global con ofertas locales y servicios de contratación especializada.
+
+[ViaTrabajo](https://viatrabajo.mtss.gub.uy/)  
+    Plataforma de empleo vinculada al Ministerio de Trabajo y Seguridad Social de Uruguay, con ofertas públicas y privadas.
+
+
+### **Estatales:**
 - [Uruguay Concursa](https://www.uruguayconcursa.gub.uy/Portal/)  
-- [Ministerio del Interior](https://www.minterior.gub.uy/index.php?option=com_llamados&task=llamados)
+  Plataforma centralizada para la gestión de concursos y llamados para cargos en el Estado.
+
+- [Ministerio del Interior - Llamados](https://www.minterior.gub.uy/index.php?option=com_llamados&task=llamados)  
+  Información sobre llamados y concursos para cargos en el Ministerio del Interior.
+
+- [MTSS (Ministerio de Trabajo y Seguridad Social)](https://www.mtss.gub.uy/)  
+  Información sobre concursos y oportunidades de empleo en el sector público.
+
+- [Portal del Estado](https://www.uruguay.gub.uy/)  
+  Portal general del gobierno con información sobre oportunidades laborales en el Estado.
+
+- [Gobierno de Canelones](https://www.canelones.gub.uy/)  
+  Consulta los llamados y oportunidades de empleo en la administración de Canelones.
+
+- [Gobierno de Montevideo](https://www.montevideo.gub.uy/)  
+  Información sobre concursos y ofertas laborales en la administración de Montevideo.
+
+- [INJU (Instituto Nacional de Juventud)](https://www.inju.gub.uy/)  
+  Oportunidades y programas dirigidos a jóvenes, incluyendo formación y empleo.
+
+- [Ministerio de Educación y Cultura - Concursos](https://www.mec.gub.uy/)  
+  Información sobre concursos y oportunidades laborales en el sector educativo y cultural.
+
+- [Ministerio de Salud Pública - Concursos](https://www.msp.gub.uy/)  
+  Información sobre concursos y oportunidades laborales en el sector de la salud.
+
+- [Banco de Previsión Social (BPS) - Concursos](https://www.bps.gub.uy/)  
+  Información sobre oportunidades laborales y llamados en el Banco de Previsión Social.
+
+- [Dirección Nacional de Aduanas - Concursos](https://www.aduanas.gub.uy/)  
+  Información sobre llamados y concursos para cargos en la Dirección Nacional de Aduanas.
+
+- [Dirección Nacional de Migración](https://www.minterior.gub.uy/index.php?option=com_content&view=article&id=84&Itemid=239)  
+  Información sobre oportunidades laborales y concursos en la Dirección Nacional de Migración.
+
+- [Instituto Nacional de Evaluación Educativa (INEE)](https://www.inee.gub.uy/)  
+  Información sobre oportunidades y concursos en el ámbito educativo.
+
+- [Agencia Nacional de Investigación e Innovación (ANII)](https://www.anii.org.uy/)  
+  Oportunidades de empleo y concursos relacionados con la investigación y la innovación.
+
+---
+
+## 🛠️ Talleres y Recursos para Crecimiento Profesional y Económico
+
+- [Talleres del Banco Central del Uruguay](https://bcueduca.gub.uy/talleres/)  
+  Ofrecen talleres sobre inversiones y otros temas para el crecimiento profesional y económico.
+
+- [Formación y Capacitación del Ministerio de Trabajo y Seguridad Social (MTSS)](https://www.mtss.gub.uy/)  
+  Información sobre programas y talleres de capacitación para el desarrollo profesional.
+
+- [Uruguay Emprendedor - Capacitación y Asesoramiento](https://www.uruguayemprendedor.gub.uy/)  
+  Recursos y talleres para emprendedores y profesionales que buscan desarrollar nuevas habilidades.
+
 
 ---
 
