@@ -3,14 +3,12 @@
 Este repositorio recopila recursos clave para la búsqueda de empleo, creación de currículums y desarrollo de portfolios. Ideal para quienes buscan oportunidades laborales en **Uruguay** y desean presentarse de manera profesional.
 
 ## 📜 Índice
-
-1 - [Sitios para Postularse](#sitios-para-postularse)
+[Sitios para Postularse](#sitios-para-postularse)
    - [1.1 - Privados](#privados)
    - [1.2 - Estatales](#estatales)
-2 - [Talleres y Recursos](#talleres-y-recursos-para-crecimiento-profesional-y-economico)
-3 - [Herramientas para Crear Currículums](#herramientas-para-crear-curriculums)
-4 - [Herramientas para Crear Portfolios](#herramientas-para-crear-portfolios)
-
+2. [Talleres y Recursos](#talleres-y-recursos-para-crecimiento-profesional-y-economico)
+3. [Herramientas para Crear Currículums](#herramientas-para-crear-curriculums)
+4. [Herramientas para Crear Portfolios](#herramientas-para-crear-portfolios)
 
 ---
 
