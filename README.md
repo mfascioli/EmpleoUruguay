@@ -10,11 +10,12 @@ Este repositorio recopila recursos clave para la búsqueda de empleo, creación 
 2. [Talleres y Recursos](#talleres-y-recursos-para-crecimiento-profesional-y-economico)
 3. [Herramientas para Crear Currículums](#herramientas-para-crear-curriculums)
 4. [Herramientas para Crear Portfolios](#herramientas-para-crear-portfolios)
-5. [Plataformas de Teletrabajo](#plataformas-de-teletrabajo)
+5. [Consejos](#consejos)
+6. [Plataformas de Teletrabajo](#plataformas-de-teletrabajo)
 
 ---
 
-## 📩 Sitios para Postularse
+## Sitios para Postularse
 
 ### **Privados:**
 
@@ -94,7 +95,7 @@ Este repositorio recopila recursos clave para la búsqueda de empleo, creación 
 
 ---
 
-## 🛠️ Talleres y Recursos para Crecimiento Profesional y Económico
+## Talleres y Recursos para Crecimiento Profesional y Económico
 
 - [Talleres del Banco Central del Uruguay](https://bcueduca.gub.uy/talleres/)  
   Ofrecen talleres sobre inversiones y otros temas para el crecimiento profesional y económico.
@@ -108,7 +109,7 @@ Este repositorio recopila recursos clave para la búsqueda de empleo, creación 
 
 ---
 
-## 📃 Herramientas para Crear Currículums
+## Herramientas para Crear Currículums
 
 Usa estas herramientas para desarrollar un CV profesional que destaque entre la competencia:
 
@@ -120,7 +121,7 @@ Usa estas herramientas para desarrollar un CV profesional que destaque entre la 
 
 ---
 
-## 💼 Herramientas para Crear Portfolios
+## Herramientas para Crear Portfolios
 
 Presenta tu trabajo de la mejor manera posible usando estas plataformas de portfolio y diseño:
 
@@ -135,13 +136,13 @@ Presenta tu trabajo de la mejor manera posible usando estas plataformas de portf
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 El objetivo de este repositorio es centralizar recursos esenciales para facilitar tu búsqueda de empleo orientada a trabajadores basados en **Uruguay** 🇺🇾 y ayudarte a crear una presentación profesional de alta calidad. ¡Buena suerte en tu búsqueda laboral!
 
 ---
 
-💡 **Consejos:**
+## Consejos
 
 - Prepara plantillas de cartas de presentación adaptadas al tipo de empresa y al sector. Las cartas de presentación personalizadas, que reflejan el estilo y los requisitos específicos del empleador, pueden mejorar tus posibilidades de ser llamado a una entrevista. Este documento adicional ofrece una oportunidad para destacar tus habilidades, motivación y adecuación al puesto de manera más detallada y personalizada.
 
@@ -149,6 +150,6 @@ El objetivo de este repositorio es centralizar recursos esenciales para facilita
 
 ---
 
-## 🌐 Plataformas de Teletrabajo
+##  Plataformas de Teletrabajo
 
 - Para más información sobre teletrabajo, consulta el documento [Teletrabajo.md](./Teletrabajo.md).
