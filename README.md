@@ -3,6 +3,7 @@
 Este repositorio recopila recursos clave para la búsqueda de empleo, creación de currículums y desarrollo de portfolios. Ideal para quienes buscan oportunidades laborales en **Uruguay** y desean presentarse de manera profesional.
 
 [Ir a Sitios para Postularse](#sitios-para-postularse)
+[Ir a Estatales](#estatales)
 
 ---
 
@@ -41,7 +42,7 @@ Este repositorio recopila recursos clave para la búsqueda de empleo, creación 
     Plataforma de empleo vinculada al Ministerio de Trabajo y Seguridad Social de Uruguay, con ofertas públicas y privadas.
 
 
-### **Estatales:**
+## **Estatales:**
 - [Uruguay Concursa](https://www.uruguayconcursa.gub.uy/Portal/)  
   Plataforma centralizada para la gestión de concursos y llamados para cargos en el Estado.
 
