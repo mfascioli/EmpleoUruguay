@@ -136,12 +136,6 @@ Presenta tu trabajo de la mejor manera posible usando estas plataformas de portf
 
 ---
 
-## Objetivo
-
-El objetivo de este repositorio es centralizar recursos esenciales para facilitar tu búsqueda de empleo orientada a trabajadores basados en **Uruguay** 🇺🇾 y ayudarte a crear una presentación profesional de alta calidad. ¡Buena suerte en tu búsqueda laboral!
-
----
-
 ## Consejos
 
 - Prepara plantillas de cartas de presentación adaptadas al tipo de empresa y al sector. Las cartas de presentación personalizadas, que reflejan el estilo y los requisitos específicos del empleador, pueden mejorar tus posibilidades de ser llamado a una entrevista. Este documento adicional ofrece una oportunidad para destacar tus habilidades, motivación y adecuación al puesto de manera más detallada y personalizada.
