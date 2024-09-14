@@ -52,4 +52,8 @@ El objetivo de este repositorio es centralizar recursos esenciales para facilita
 
 ---
 
-💡 **Consejo:** Mantén tu currículum y portfolio siempre actualizados para destacarte en el competitivo mundo laboral.
+💡 **Consejos:**
+
+- Prepara plantillas de cartas de presentación adaptadas al tipo de empresa y al sector. Las cartas de presentación personalizadas, que reflejan el estilo y los requisitos específicos del empleador, pueden mejorar tus posibilidades de ser llamado a una entrevista. Este documento adicional ofrece una oportunidad para destacar tus habilidades, motivación y adecuación al puesto de manera más detallada y personalizada.
+
+- Mantén tu currículum y portfolio siempre actualizados para destacarte en el competitivo mundo laboral.
